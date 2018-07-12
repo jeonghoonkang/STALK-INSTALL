@@ -44,4 +44,6 @@
 
 # How To Use
 
-Coming Soon...
+http://125.7.128.54:8900/#/main
+
+http://125.7.128.54/stalk/master/admin/api/entry/
